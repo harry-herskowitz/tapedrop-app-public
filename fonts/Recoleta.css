@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4234182, 2021-12-06T11:52:11-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Recoleta-Black by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/recoleta/black/
+ * Copyright: Copyright � 2018 by Jorge Cisterna. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/409bc6");
+  
+@font-face {
+  font-family: "Recoleta-Black";
+  src: url('webFonts/RecoletaBlack/font.woff2') format('woff2'), url('webFonts/RecoletaBlack/font.woff') format('woff');
+}
+
